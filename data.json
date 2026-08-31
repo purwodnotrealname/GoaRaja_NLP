@@ -1,0 +1,33 @@
+{
+  "info_umum": {
+    "nama": "Air Terjun Goa Raja",
+    "deskripsi": ["Air Terjun Goa Raja berada di Desa Jehem, Kecamatan Tembuku, Kabupaten Bangli, Bali. Lokasinya yang masih asri menjadikannya salah satu hidden gem di Pulau Dewata. Sesuai dengan namanya, Goa Raja Waterfall tersembunyi di dalam sebuah gua, sehingga pemandangannya unik dan eksotis. Dikelilingi pepohonan rindang dan suasana yang menenangkan, tempat ini sangat cocok bagi kamu yang ingin healing dengan menikmati keindahan alam yang asri."]
+  },
+  "jam_operasional": {
+    "Senin_Minggu": "08:00 - 17:00"
+  },
+  "lokasi": {
+    "alamat": "Desa Jehem, Kecamatan Tembuku, Kabupaten Bangli, Bali",
+    "maps": "https://maps.app.goo.gl/egfPFGkJs5ojKzdE7"
+  },
+  "tarif": {
+    "dewasa": 0,
+    "anak": 0,
+    "catatan": "Contact pihak pengelola untuk informasi lebih lanjut mengenai tarif masuk."
+  },
+  "fasilitas": [
+    "Gazebo",
+    "Ruang Ganti",
+    "Toilet"
+  ],
+  "Denah": ["img/PETA FIX A0.jpg"],
+
+  "kontak": {
+    "nama": "Pihak Goa Raja",
+    "telepon": "+62 857-3785-7214",
+    "Instagram": "https://www.instagram.com/goarajawaterfall/"
+  },
+  "foto": ["img/start img.png"],
+  
+  "admin_whitelist": [1328280391]
+}
